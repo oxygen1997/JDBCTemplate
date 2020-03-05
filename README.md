@@ -1,2 +1,3 @@
 # JDBCTemplate
-JDBCTemplate Demo.
+JDBCTemplate是Spring框架对JDBC的简单封装，提供一个JDBCTemplate对象简化JDBC开发
+创建JDBCTemplate对象时依赖于数据源DataSource，通过DataSource获取连接池连接。
